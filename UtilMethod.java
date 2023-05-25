@@ -1,4 +1,3 @@
-package com.technoboost;
 
 import org.springframework.web.servlet.support.ServletUriComponentsBuilder;
 
