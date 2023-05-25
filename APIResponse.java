@@ -1,4 +1,3 @@
-package com.technoboost;
 
 import lombok.Builder;
 import lombok.Getter;
