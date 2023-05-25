@@ -1,4 +1,4 @@
-package com.technoboost.send_email.util;
+
 
 public interface Constants {
     String MAIL_SMTP_USERNAME = "AKIAQJBCNP26CHO5AJM3";
