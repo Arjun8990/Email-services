@@ -1,4 +1,4 @@
-package com.technoboost.send_email.resource;
+
 
 import com.technoboost.send_email.payload.SendMailPayload;
 import com.technoboost.send_email.service.MailSendService;
